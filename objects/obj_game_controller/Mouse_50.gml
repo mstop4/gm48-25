@@ -1,1 +1,1 @@
-physics_particle_create(flags,mouse_x,mouse_y,0,0,c_white,1,1);
+physics_particle_create(flags,mouse_x,mouse_y,0,-300,c_white,1,1);
