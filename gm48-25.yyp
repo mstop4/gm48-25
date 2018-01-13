@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "02c6d5db-0429-43be-b8dd-b3597523a8a9",
+            "Value": {
+                "id": "93eefa21-f971-4980-a067-18e27d8d2cdb",
+                "resourcePath": "scripts\\print_log\\print_log.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "0765e67e-52f6-40c9-9b62-a7c5bdd5fe32",
             "Value": {
                 "id": "08f2a673-451e-4441-8d52-9551413686bc",
@@ -52,6 +60,14 @@
                 "id": "47eea04a-8b5b-4412-b653-b621e208f5eb",
                 "resourcePath": "views\\12818d12-847e-40b7-912d-cc0bd25c9b2e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "1d91217d-3927-4ff8-9063-8c50333876cc",
+            "Value": {
+                "id": "c1148791-4af5-4984-8686-bd5678d417a8",
+                "resourcePath": "objects\\obj_wall\\obj_wall.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -103,6 +119,14 @@
             }
         },
         {
+            "Key": "6579d2a6-6740-4a33-9626-764485c3df43",
+            "Value": {
+                "id": "04eab845-d556-4f24-91e2-5a87ca531bb3",
+                "resourcePath": "sprites\\spr_drop\\spr_drop.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "75743e96-6241-4d4d-ac9d-384e95a0245a",
             "Value": {
                 "id": "658bec53-7d99-4d4c-9fc2-df3509adc126",
@@ -132,6 +156,14 @@
                 "id": "68dabfdf-bece-440d-8b12-422d4a35a452",
                 "resourcePath": "options\\ios\\options_ios.yy",
                 "resourceType": "GMiOSOptions"
+            }
+        },
+        {
+            "Key": "86b3a843-0ce4-4550-a9cc-e6dc75b7ce6e",
+            "Value": {
+                "id": "c42fb382-3f83-4b73-bfc9-27072b445f41",
+                "resourcePath": "objects\\obj_game_controller\\obj_game_controller.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -172,6 +204,14 @@
                 "id": "89913512-cb5b-43f4-9e79-3ae97b9aaa6a",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "bba2156e-5873-4eb2-ab2d-6b648bc807fc",
+            "Value": {
+                "id": "ad281938-e3b4-4037-9241-bead953f7f0e",
+                "resourcePath": "scripts\\concat\\concat.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -221,10 +261,19 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
+        },
+        {
+            "Key": "ff2c54a0-bc22-426b-8b76-b746a713a095",
+            "Value": {
+                "id": "15331e77-cacd-4fd8-8a0d-c25284bb74d7",
+                "resourcePath": "sprites\\spr_wall\\spr_wall.yy",
+                "resourceType": "GMSprite"
+            }
         }
     ],
     "script_order": [
-        
+        "bba2156e-5873-4eb2-ab2d-6b648bc807fc",
+        "02c6d5db-0429-43be-b8dd-b3597523a8a9"
     ],
     "tutorial": ""
 }

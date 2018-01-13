@@ -1,0 +1,1 @@
+draw_text(0,0,concat("FPS Real: ", fps_real, "\nParticles: ", physics_particle_count()));
