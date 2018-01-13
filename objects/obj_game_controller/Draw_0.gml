@@ -1,1 +1,1 @@
-physics_particle_draw(flags,1,spr_drop,0);
+physics_particle_draw(draw_flags,1,spr_drop,0);
