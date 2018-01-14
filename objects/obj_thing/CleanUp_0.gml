@@ -1,0 +1,1 @@
+physics_fixture_delete(fix);
