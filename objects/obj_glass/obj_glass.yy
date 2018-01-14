@@ -2,7 +2,7 @@
     "id": "8a2ea119-6078-4d92-b3b6-bed3fcf7e812",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object4",
+    "name": "obj_glass",
     "eventList": [
         {
             "id": "6ff2146e-f482-4169-9dd4-4ac9887c18ea",
@@ -12,6 +12,26 @@
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
+            "m_owner": "8a2ea119-6078-4d92-b3b6-bed3fcf7e812"
+        },
+        {
+            "id": "7c96ce0c-1356-4c9d-9680-131f2e6b003a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "8a2ea119-6078-4d92-b3b6-bed3fcf7e812"
+        },
+        {
+            "id": "0af7a997-5dee-4899-8938-196da522664d",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 73,
+            "eventtype": 8,
             "m_owner": "8a2ea119-6078-4d92-b3b6-bed3fcf7e812"
         }
     ],
